@@ -35,10 +35,6 @@ git clone https://github.com/nahsc0/serverless-workflow-automation.git
 
 6. **Documentation**: Update the project documentation in the `docs/` directory as needed.
 
-## Usage
-
-Describe how to use your project. Include instructions for running Lambda functions, setting up triggers, and any other relevant information.
-
 ## Contributing
 
 If you'd like to contribute to this project, please follow these guidelines:
@@ -64,5 +60,4 @@ Feel free to reach out for questions or feedback.
 
 **Note:**  `[Yusuf Nasir Ahmad]`, `[Naseeryusuf07@gmail.com]`, and `[www.github.com/nahsc0]`.
 
-This README provides a basic structure. Make sure to customize it according to your project's specific details and requirements. Include more detailed information, usage examples, and any additional sections that would benefit your users and contributors.
-
+This README provides a basic structure.
